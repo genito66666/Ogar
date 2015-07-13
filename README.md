@@ -1,5 +1,5 @@
 # Ogar
-A fully functional open source Agar.io server implementation, written in Node.js. Ogar is designed to be used with the latest Agar.io client (as of 7/4/15).
+A fully functional open source Agar.io server implementation, written in Node.js. Ogar is designed to be used with the latest Agar.io client (as of 7/4/15). This version is modified to be overpowered for people that would like to grow big in a matter of seconds.
 
 ## Obtaining and Using
 If you are on Windows, Ogar no longer requires an installation of node.js to run. Simply launch the batch file that is included to run the server. The rest of this section is for non Windows users.
